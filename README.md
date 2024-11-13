@@ -27,3 +27,18 @@ The EMNIST Balanced dataset is meant to address the balance issues in the ByClas
 |Classes| 47 (balanced)|
 
 ![img_1.png](img_1.png)
+
+
+---
+
+---
+
+# How to Run the Project:
+
+1.  Install the dependencies:<br>
+    *Run the following command to install all required dependencies:* <br>
+    `pip install -r requirements.txt` 
+2.  Run the application locally:<br>
+    *Start the project by running:* <br>
+    `python app.py`
+___
