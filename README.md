@@ -1,5 +1,6 @@
-# Handwritten Character Recognition
-
+------------------------------------------------------------
+# InkScan 
+## Handwritten Character Recognition
 
 ------------------------------------------------------------
 # My Model's Evaluation Metrics
