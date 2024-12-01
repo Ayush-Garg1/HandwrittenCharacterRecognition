@@ -42,4 +42,8 @@ The EMNIST Balanced dataset is meant to address the balance issues in the ByClas
 2.  Run the application locally:<br>
     *Start the project by running:* <br>
     `python app.py`
-___
+---
+![Screenshot 2024-08-30 193248](https://github.com/user-attachments/assets/de993ccc-198b-4f7b-88e6-cf17d40a54de)
+![Screenshot 2024-08-30 193330](https://github.com/user-attachments/assets/4e3a9ce1-03e6-4d98-9eeb-18889dfac44a)
+![Screenshot 2024-08-30 193351](https://github.com/user-attachments/assets/1367de3d-2c37-4e14-abdf-59daef7c20e7)
+---
