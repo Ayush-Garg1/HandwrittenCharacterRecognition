@@ -1,5 +1,5 @@
 # Use TensorFlow image with Python 3.11 and CPU support
-FROM tensorflow/tensorflow:2.17.0-python3.11
+FROM tensorflow/tensorflow:2.17.0
 
 # Set work directory
 WORKDIR /app
